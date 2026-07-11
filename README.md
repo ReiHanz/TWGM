@@ -30,3 +30,4 @@ Referensi Dataset:
 
 [3] B. Zhou et al., “VictimFinder: Harvesting rescue requests in disaster response from social media with BERT,” Computers, Environment and Urban Systems, vol. 95, p. 101824, Jul. 2022, doi: 10.1016/j.compenvurbsys.2022.101824.
 
+[4] Y. Abbahaddou, J. F. Lutzeyer, and M. Vazirgiannis, “Graph Neural Networks on Discriminative Graphs of Words,” 2024, arXiv. doi: 10.48550/ARXIV.2410.20469.
